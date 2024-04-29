@@ -1,0 +1,7 @@
+C:/Users/Zoya/CLionProjects/quoteunquoteWEBsems3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Zoya/CLionProjects/quoteunquoteWEBsems3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Zoya/CLionProjects/quoteunquoteWEBsems3/cmake-build-debug/client/CMakeFiles/tic_tac_toe_client.dir
+C:/Users/Zoya/CLionProjects/quoteunquoteWEBsems3/cmake-build-debug/client/CMakeFiles/edit_cache.dir
+C:/Users/Zoya/CLionProjects/quoteunquoteWEBsems3/cmake-build-debug/client/CMakeFiles/rebuild_cache.dir
+C:/Users/Zoya/CLionProjects/quoteunquoteWEBsems3/cmake-build-debug/server/CMakeFiles/edit_cache.dir
+C:/Users/Zoya/CLionProjects/quoteunquoteWEBsems3/cmake-build-debug/server/CMakeFiles/rebuild_cache.dir

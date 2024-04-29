@@ -1,0 +1,7 @@
+# ninja log v5
+18	450	7360195890975636	client/CMakeFiles/tic_tac_toe_client.dir/simpleboard.cpp.obj	adca259da006ee7c
+4	579	7360654582357729	client/CMakeFiles/tic_tac_toe_client.dir/client.cpp.obj	6b9c8a1b713517f3
+27	935	7360635736647267	client/CMakeFiles/tic_tac_toe_client.dir/consoleplayer.cpp.obj	e99d05ab5f9d0a64
+15	694	7360654583550300	client/CMakeFiles/tic_tac_toe_client.dir/consolegame.cpp.obj	b86e35cc46c41edf
+22	574	7360654582347733	client/CMakeFiles/tic_tac_toe_client.dir/gamemanager.cpp.obj	d5f822d4a26ca6ac
+695	942	7360654586014830	client/tic_tac_toe_client.exe	f8c35066af919296
